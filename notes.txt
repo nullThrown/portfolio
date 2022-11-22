@@ -1,0 +1,7 @@
+*create color variables for all colors 
+*normalize all css class names i.e., 'description' -> 'desc', 'text', 'button' -> 'btn'
+
+
+*project image will expand and overlap description on hover
+*also add carousel upon hover 
+*also will link to live demo
